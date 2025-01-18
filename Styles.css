@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #000;
+    background-color: #2c2c2c;
 }
 
 main {
@@ -36,7 +36,7 @@ h2 {
     background: rgba(255, 255, 255, 0.25);
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 14px;
-    height: 74px;
+    height: 50px;
     width: 342px;
     padding-left: 20px;
     font-weight: 500;
@@ -48,7 +48,7 @@ h2 {
 }
 
 .button-draw {
-    background-color: #AEC346;
+    background-color: #d1c6aa;
     color: #fff;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 14px;
@@ -62,7 +62,7 @@ h2 {
 }
 
 .button-draw:hover {
-    background-color: #c9e929;
+    background-color: #d1c6aa;
     opacity: 0.8;
 }
 
